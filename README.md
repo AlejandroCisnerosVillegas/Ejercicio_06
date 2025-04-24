@@ -16,7 +16,7 @@ El script PHP procesa los datos ingresados en el formulario:
 
 Esta actividad demuestra habilidades en el desarrollo de aplicaciones web interactivas utilizando tecnologías de front-end y back-end. La aplicación ofrece una funcionalidad práctica y una interfaz de usuario intuitiva, facilitando la generación y visualización de tablas de multiplicar de manera eficiente.
 
-**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_06.com](https://alejandrovillegas.net/projects/exercise-06/index.php)
+**Consulta la versión preliminar de la actividad aquí:** [https://ejercicio_06.com](https://www.alejandrovillegas.dev/projects/exercise-06/index.php)
 
 # 📌 Información de la Actividad
 
@@ -28,7 +28,7 @@ Esta actividad ha sido desarrollado como parte del portafolio de soluciones tecn
 
 - **Fecha de Desarrollo**: 29 de junio de 2018
 
-- **Portafolio de Proyectos**: [www.alejandrovillegas.net](https://www.alejandrovillegas.net/)
+- **Portafolio de Proyectos**: [www.alejandrovillegas.dev](https://www.alejandrovillegas.dev)
 
 ## 🔧 Guía de Instalación y Configuración de la Actividad
 
